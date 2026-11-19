@@ -16,3 +16,10 @@ node_modules/
 __pycache__/
 .venv/
 venv/
+dist/
+scripts/share-test.html
+scripts/test-audio.wav
+scripts/shot-*.png
+share-test.html
+test-audio.wav
+shot-*.png
